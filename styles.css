@@ -1,24 +1,77 @@
 
-
-.omelette-image{
-    height: 50vh;
-    width: 50vw;
-    margin: 0 auto;
-
-    
+body{
+    background-color: #F3E6D9;
 }
-.pink-page{
-    background-color: #F3E6D9
-    height: 200vh;
+.image-omelette{
+    height: 40vh;
     width: 50vw;
+    border-radius: 4%;
     margin: 0 auto;
+
     
 }
 .recipe-page{
     background-color: white;
-    height: 200vh;
+    height: 205vh;
     width: 50vw;
-    display: inline-block;
-    z-index: ;
+    margin: 0 auto;
+    margin-top: 15vh;
+    padding: 5vw 5vh 5vw 5vh;
+    border-radius: 4%;
 
 }
+
+.omelette-image-container{
+    height: 40vh;
+    width: 50vw;
+    margin: 0 auto;
+    margin-bottom: 5vh;
+}
+
+.pink-prep-time-container{
+    height: 20vh;
+    width: 50vw;
+    background-color: #FFF7FC;
+    padding: 1vh 1vh 2vw 1vh;
+    margin: 0 auto;
+    border-radius: 4%;
+
+}
+.prep-time-h1{
+    color: #6A2944;
+}
+li{
+    list-style-position: inside;
+    margin-left: 1vw;
+}
+.ingredients-h2, .nutrition-h2, .instructions-h2
+{
+    color: #8B463A;
+
+}
+
+.ingredients-li{
+    margin-left: -2.75vw;
+    list-style-position: inside;
+}
+
+hr{
+    margin: 0 auto;
+}
+
+.instructions-li{
+    margin-left: -2.75vw;
+    list-style-position: inside;
+   list-style: none;
+}
+table, th,td{
+    border-bottom: 1px solid #ddd;
+
+    border-collapse: collapse;
+    padding: 2vh 15.2vw;
+    padding-left: 0;
+    margin-left: 2vw;
+    margin-bottom: 5vh;
+}
+
+
