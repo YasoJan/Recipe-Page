@@ -12,13 +12,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Author](#author)
 
 
-
 ## Overview
 
 ### Screenshot
 
-![Original Site](./original-site-image.png)
-![Cloned Site](./cloned-site-image.png)
+<img src="./cloned-site-image.png" width="600"/>
+<img src="./original-site-image.png" width="600"/>
 
 ### Links
 
